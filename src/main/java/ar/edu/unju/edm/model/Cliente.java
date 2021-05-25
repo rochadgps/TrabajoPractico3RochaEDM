@@ -11,8 +11,6 @@ private int nroDocumento;
 	@DateTimeFormat(pattern = "yyyy-MM-dd")
 	private LocalDate fechaNacimiento;
 	
-	//Calendar
-	//private Date fechaUltimCompra = new Date();
 	
 	private String tipoDocumento;
 	private int codigoAreaTelefono;
